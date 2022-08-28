@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harivansh Thakur</h1>
+<p align="center">
+I have a Bachelor's degree in Computer Science and have experience with back-end and cloud technologies. I also have a great passion for devops, opensource and I'm very keen to develop these skills by working on real projects that solve business problems.</p>
 
 - 😄 Pronouns: He/Him
 
