@@ -27,7 +27,10 @@
 - 📫 How to reach me: 
 <p><a href="https://github.com/Harivansh-coder" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/harivansh-thakur1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.harivansht.tech" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 </p>
+
+
 
 
 - ⚡ Fun fact: I am not a robot :)
